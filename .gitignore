@@ -2,3 +2,5 @@ fp-info-cache
 *.kicad_prl
 .DS_Store
 main-backups/
+**/Gerber*
+*.drl
