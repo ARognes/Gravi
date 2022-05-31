@@ -1,9 +1,4 @@
-# Custom Keyboard Project
-
-## Cost reductions
-
-
-
+# Estoc
 
 
 ## Notes
