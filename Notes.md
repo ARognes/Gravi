@@ -83,6 +83,8 @@ TYPE-C-31-M-12 $0.1469 1000+, 16 pin
 
 If main alternation is available, this may be better aleviated
 
+Anything >= 600mAh works really
+
 (mm)
 YOK Energy: 
   YE602663C  6.2  26.3  63.5 
@@ -91,6 +93,7 @@ YOK Energy:
 LP602760: 60	27	6 
 LP602660: 60	26	6 
 LP602560: 60	25	6 
+LP603443: 43  34  6
 
 Ask for JST connectors attached!
 
