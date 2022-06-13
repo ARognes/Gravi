@@ -4,3 +4,5 @@ fp-info-cache
 main-backups/
 **/Gerber*
 *.drl
+*.step
+*.stp
