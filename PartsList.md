@@ -1,6 +1,8 @@
 # Parts List
 
+All possible parts to purchase
 
+---
 
 ## Capacitors: Digikey, YAGEO
 |  QTY   | Price  | Capacitance |                                         Company                                         |
@@ -14,6 +16,7 @@
 
 Venkel has free shipping
 
+---
 
 ## Resistors
 |       Name        | In Stock |  QTY   | Price  | Resistance |                                               Datasheet                                               |                                                                                Company |
@@ -28,6 +31,7 @@ Possibly need 1k resistor
 
 Venkel has free shipping
 
+---
 
 ## Crystals
 
@@ -35,6 +39,8 @@ Venkel has free shipping
 | :------------------: | :-------: | :---: | :------: | :-----: | :--------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: |
 | FC-12M 32.7680KA-AC3 | 2.05x1.25 |  250  |  51,000  | $277.20 |       [DS](https://support.epson.biz/td/api/doc_check.php?dl=brief_FC-12D&lang=en)       |              [Digikey](https://www.digikey.com/en/products/detail/epson/FC-12M-32.7680KA-AC3/5259892)              |
 |      CM8V-T1A..      |  2.0x1.2  | 1,000 |  83,000  | $350.24 | [DS](https://www.microcrystal.com/fileadmin/Media/Products/32kHz/Datasheet/CM8V-T1A.pdf) | [Digikey](https://www.digikey.com/en/products/detail/micro-crystal-ag/CM8V-T1A-32.768KHZ-9PF-20PPM-TA-QC/10500166) |
+
+---
 
 ## Chips
 
@@ -56,6 +62,8 @@ XC6220B331MR-G is a voltage regulator.
 It outputs 3.3 V minimum, 1 A current
 Input max 6 V
 
+---
+
 ## JST Battery Connector
 
 |  End   |            Name            |   QTY   | In Stock |  Price  |                                             Datasheet                                             |                                                 Distributor                                                  |
@@ -63,6 +71,26 @@ Input max 6 V
 | Female | BM02B-ACHSS-GAN-TF(LF)(SN) | 422,000 |  1,000   | $287.44 | [DS](https://media.digikey.com/pdf/Data%20Sheets/JST%20PDFs/ACH_1.2Pitch_DisconnectableCrimp.pdf) | [Digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/BM02B-ACHSS-GAN-TF-LF-SN/1647788) |
 |  Male  |         ACHR-02V-S         | 43,550  |  1,000   | $73.43  |                      [DS](https://www.jst-mfg.com/product/pdf/eng/eACH.pdf)                       |        [Digikey](https://www.digikey.com/en/products/detail/jst-sales-america-inc/ACHR-02V-S/1647783)        |
 
+---
+
+## USB-C
+
+|    Name    |  QTY  | In Stock |  Price  |                                       Datasheet                                       |                                                   Distributor                                                   |
+| :--------: | :---: | :------: | :-----: | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| 2169900003 | 5,110 |  1,000   | $723.24 | |  |
+| 2169900001 | 5,110 |  1,000   | $723.24 | [DS](https://www.molex.com/webdocs/datasheets/pdf/en-us/2169900001_IO_CONNECTORS.pdf) | [Digikey](https://www.digikey.com/en/products/detail/molex/2169900001/13913743?s=N4IgTCBcDa4IwDYCcSAM7VxAXQL5A) |
+
+---
+
+## LED
+
+
+## Switch
+
+
+## Reset Button
+
+## 
 
 
 ## Other
