@@ -5,12 +5,12 @@ All possible parts to purchase
 ---
 
 ## Capacitors: Digikey, YAGEO
-|  QTY   | Price  | Capacitance |                                         Company                                         |
-| :----: | :----: | :---------: | :-------------------------------------------------------------------------------------: |
-| 5,000  | $76.15 |    12 pF    |   [YAGEO](https://www.digikey.com/en/products/detail/yageo/CC0402FRNPO9BN120/5195050)   |
-| 5,000  | $38.20 |   4.7 pF    |   [YAGEO](https://www.digikey.com/en/products/detail/yageo/CC0402BRNPO9BN4R7/5195033)   |
-| 5,000  | $32.25 |    1 pF     |   [YAGEO](https://www.digikey.com/en/products/detail/yageo/CC0402BRNPO9BN1R0/5883183)   |
-| 10,000 | $62.60 |    12pF     | [Venkel](https://www.digikey.com/en/products/detail/venkel/C0402C0G500-120FNP/12332097) |
+|  QTY   | Price  | Capacitance | Need  |                                         Company                                         |
+| :----: | :----: | :---------: | :---: | :-------------------------------------------------------------------------------------: |
+| 5,000  | $76.15 |    12 pF    |   2   |   [YAGEO](https://www.digikey.com/en/products/detail/yageo/CC0402FRNPO9BN120/5195050)   |
+| 5,000  | $38.20 |   4.7 pF    |   2   |   [YAGEO](https://www.digikey.com/en/products/detail/yageo/CC0402BRNPO9BN4R7/5195033)   |
+| 5,000  | $32.25 |    1 pF     |   1   |   [YAGEO](https://www.digikey.com/en/products/detail/yageo/CC0402BRNPO9BN1R0/5883183)   |
+| 10,000 | $62.60 |    12pF     |   2   | [Venkel](https://www.digikey.com/en/products/detail/venkel/C0402C0G500-120FNP/12332097) |
 
 1005 Metric
 
@@ -77,7 +77,7 @@ Input max 6 V
 
 |    Name    |  QTY  | In Stock |  Price  |                                       Datasheet                                       |                                                   Distributor                                                   |
 | :--------: | :---: | :------: | :-----: | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
-| 2169900003 | 5,110 |  1,000   | $723.24 | |  |
+| 2169900003 | 5,110 |  1,000   | $723.24 |                                                                                       |                                                                                                                 |
 | 2169900001 | 5,110 |  1,000   | $723.24 | [DS](https://www.molex.com/webdocs/datasheets/pdf/en-us/2169900001_IO_CONNECTORS.pdf) | [Digikey](https://www.digikey.com/en/products/detail/molex/2169900001/13913743?s=N4IgTCBcDa4IwDYCcSAM7VxAXQL5A) |
 
 ---
