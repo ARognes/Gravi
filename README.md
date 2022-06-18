@@ -5,18 +5,17 @@ Idk what to call this exactly. The main focus of this split keyboard is to elimi
 Specification:
 - Split in 2 halves
 - Bluetooth low energy
-- nRF52 family BLE chips
+- nRF52 family
 - On board SMD components
-- No Nice!Nano to save space
 - No center microcontroller area
+- Minimal visible space without keys
 - Battery underneath tenting
 
 I'm still planning how this will work.
 There will be a few keyboard variations made:
-- Cherry MX
+- Cherry MX / Kailh
 - Kailh choc
-- Kailh choc mini
+- Kailh choc mini ?
 - Scissor switch ???
 
 The main focus is the Kailh choc board
-
