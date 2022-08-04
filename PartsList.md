@@ -43,7 +43,7 @@ Venkel has free shipping
 
 ---
 
-## Chips
+## Power / Charging Chip
 
 |    Name     |  QTY  | In Stock |   Price   |                                                         Datasheet                                                          |                                         Distributor                                         |
 | :---------: | :---: | :------: | :-------: | :------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: |
@@ -83,6 +83,14 @@ Input max 6 V
 
 ---
 
+## USB-C ESD Protection
+|    Name    | In Stock |  QTY  |  Price  |                                       Datasheet                                       |                                                   Distributor                                                   |
+| :--------: | :------: | :---: | :-----: | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------: |
+| RCLAMP7522T.TNT | 8,821 | 1,000 | $495 | [DS](https://semtech.my.salesforce.com/sfc/p/E0000000JelG/a/2R000000HTqQ/iEJdTMWfTgfi7KiSi1OQ6ZvqU_A4rcQHQVQUbS4fs.w?__hstc=212684107.36d9ad8a12d3eb2fd96795c09692ad6d.1632523249633.1632523249633.1645563373098.2&__hssc=212684107.4.1645563373098&__hsfp=2341104755) | [Mouser](https://www.mouser.com/ProductDetail/Semtech/RCLAMP7522TTNT?qs=rBWM4%252BvDhIeZa4mcPs8DUA%3D%3D&utm_source=netcomponents&utm_medium=aggregator&utm_campaign=RCLAMP7522T.TNT&utm_content=Semtech) |
+| IP4234CZ6,125 | 21,000 | 1,000 | $158.20 | [DS](https://assets.nexperia.com/documents/data-sheet/IP4234CZ6.pdf) | [Digikey](https://www.digikey.com/en/products/detail/IP4234CZ6,125/1727-4717-2-ND/2296236?utm_campaign=buynow&utm_medium=aggregator&curr=usd&utm_source=octopart) |
+
+---
+
 ## LED
 
 |     Name      | Color | In Stock |  QTY  | Price  |                                           Datasheet                                            |                                          Distributor                                           |
@@ -103,9 +111,11 @@ Input max 6 V
 
 ## Reset Button
 
-## 
 
+# Alternate Power / Charging Circuit DON't DO THIS
 
-## Other
+Gotta beat $808 / 1,000
 
-USB-C
+TP4054ST25K | 2,500 | $125 | [LCSC](https://www.lcsc.com/product-detail/PMIC-Battery-Management_TPOWER-TP4054ST25P_C382138.html)
+Mosfet
+Schottky Diode
