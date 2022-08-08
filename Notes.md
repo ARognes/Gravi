@@ -22,3 +22,4 @@ LP602560: 60	25	6
 LP603443: 43  34  6
 
 Ask for JST connectors attached!
+

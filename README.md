@@ -2,6 +2,11 @@
 
 Idk what to call this exactly. The main focus of this split keyboard is to eliminate the microcontroller area to make keyboards look sleeker. This requires more room underneath the keyboard and so tenting is necessary to hold the battery.
 
+Names:
+- Gravby
+- Mash
+- Grash
+
 Specification:
 - Split in 2 halves
 - Bluetooth low energy
