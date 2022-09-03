@@ -9,7 +9,7 @@ A minimal amount of tenting will be required to hold the battery underneath.
 
 
 
-![Render](Images/pcb_V0.2.png)
+![Render](Images/pcb_V0.2.jpg)
 
 Names:
 - Estoc
