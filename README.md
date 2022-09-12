@@ -1,4 +1,4 @@
-# Estoc
+# Gravi
 
 This is a 42 or 36 key, bluetooth keyboard with at least 100mAh battery life per side
 
