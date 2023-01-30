@@ -1,4 +1,4 @@
-# Contour Split
+# Gravi
 
 This is a 42 or 36 key, bluetooth keyboard with at least 100mAh battery life per side
 
@@ -10,10 +10,14 @@ A minimal amount of tenting will be required to hold the battery underneath.
 - Estoc
 - Crawlerboard
 - Gravby
+- Gravbi
 - Gravi
-- Grash
+- Gravi
 - Mash
 - Contour Split
+- Ergo Berry
+- Skeleberry
+- DexBerry
 
 ## Features:
 - Split in 2 halves
@@ -38,18 +42,13 @@ A case will need to be built, by this time aesthetics will be more of a concern.
 ![Schematic](Images/V0.3_schematic.png)
 ![Render](Images/pcb_V0.2.jpg)
 
-# Issues
-When plugged in to usb-c, the MS88SF31 module on board gets very hot very quickly, > 85 Celcius don't touch the board hot.
-
-The J-Link SWD interface does not work and I am not able to program the nrf52833.
-
-I think the issue is with the battery and that the MS88SF31 is either getting too much or too little voltage. The Texas Instruments BQ24072 may be at fault here.
-
-
 # Prototypes
 ![Prototype](Images/20230113_211543.jpg)
 
-## Revision 3
+# Revision 4
+(Looks the same as rev 3)
+
+# Revision 3
 ![Prototype](Images/20230113_211636.jpg)
 
 # Revision 2
